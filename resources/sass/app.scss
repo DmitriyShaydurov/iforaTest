@@ -1,0 +1,24 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+
+#picker {
+    max-width: 300px;
+}
+
+.navbar-brand  a {
+    color: white;
+    text-decoration: none;
+}
+
+.nav-link {
+    color: white;
+}
+
+
