@@ -38015,7 +38015,10 @@ var render = function() {
       "a",
       {
         staticClass: "btn btn-info btn-block px-5 mb-5",
-        attrs: { href: "", target: "_blank" }
+        attrs: {
+          href: "https://github.com/DmitriyShaydurov/iforaTest",
+          target: "_blank"
+        }
       },
       [_vm._v("Посмотреть код на GitHub")]
     ),

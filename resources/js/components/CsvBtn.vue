@@ -2,7 +2,7 @@
     <div>
         <button v-on:click = "generateCsv"  v-bind:class="{ 'd-none': generateBtnHidden }" class="btn btn-secondary btn-block px-5 mb-5" type="button">Cгенерировать csv файл</button>
         <a v-bind:href="url" v-bind:class="{ 'd-none': downloadBtnHidden }" class="btn btn-info btn-block px-5 mb-5">Cкачать файл</a>
-        <a href="" class="btn btn-info btn-block px-5 mb-5" target="_blank">Посмотреть код на GitHub</a>
+        <a href="https://github.com/DmitriyShaydurov/iforaTest" class="btn btn-info btn-block px-5 mb-5" target="_blank">Посмотреть код на GitHub</a>
         <a href="https://www.facebook.com/dmitriy.shaadow" class="btn btn-success btn-block px-5 mb-5" target="_blank">Посмотреть отзывы клиентов Д. Шайдурова </a>
 
     </div>
